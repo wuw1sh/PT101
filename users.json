@@ -1,0 +1,37 @@
+{
+    "user1": {
+      "Name": "Jan jaranjan",
+      "Position": "Manager",
+      "Location": "Toril",
+      "company": "sm inc",
+      "Id": 1
+    },
+    "user2": {
+      "Name": "Ango ango",
+      "Position": "Developer",
+      "Location": "Unahan ra",
+      "company": "nccc inc",
+      "Id": 2
+    },
+    "user3": {
+      "Name": "Bobo ako",
+      "Position": "Designer",
+      "Location": "Bonifacio",
+      "company": "eco inc",
+      "Id": 3
+    },
+    "user4": {
+      "Name": "Chris brown",
+      "Position": "Sales Associate",
+      "Location": "Boulevard",
+      "company": "robinson inc",
+      "Id": 4
+    },
+    "user5": {
+      "Name": "Luis Nujapa",
+      "Position": "Intern",
+      "Location": "Lugar sa pogi",
+      "company": "abreeza inc",
+      "Id": 5
+    }
+ }
